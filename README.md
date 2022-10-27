@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @c0basi
 - 👀 I’m interested in Web Development and Machine leaning
-- 📫 Reach me at cobas050@uottawa.ca
+- 📫 Reach me at oemeka.c@gmail.com
