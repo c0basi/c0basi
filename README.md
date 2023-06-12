@@ -1,7 +1,7 @@
 # Hi everyone :wave:
 
 I'm a Software developer.
-I mainly code in TypeScript. I enjoy using Next.js, React, React Native and Svelte. I am always learning. I also work with back-end technologies like Django, Nodejs and Spring Boot.
+I mainly code in TypeScript. I enjoy using Next.js, React, React Native and Ionic. I am always learning. I also work with back-end technologies like Django, Nodejs, Spring Boot and .Net.
 
 
 <img align="right" alt="GIF" src="https://github.com/c0basi/c0basi/blob/main/code.gif?raw=true" width="500" height="320" />
@@ -23,8 +23,7 @@ I mainly code in TypeScript. I enjoy using Next.js, React, React Native and Svel
 - JavaScript
 - TypeScript
 - Next.js
-- HTML, CSS
-- SCSS
+- HTML, CSS, SCSS
 - Node.js
 - Django
 - WordPress
@@ -36,6 +35,7 @@ I mainly code in TypeScript. I enjoy using Next.js, React, React Native and Svel
 - Ionic
 - React Native
 - C++ (sort of)
+- - C#
   
 ### Databases
 - SQL Server
