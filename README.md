@@ -48,7 +48,11 @@ I mainly code in TypeScript. I enjoy using Next.js, React, React Native and Ioni
 
 ### Productivity utilities
 
-- Microsoft Office
+- Jira
+- Kubernates
+- Docker
+- Jenkins
+- Terraform
 
 
 ## What I'm currently doing 📚
