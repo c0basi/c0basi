@@ -35,7 +35,7 @@ I mainly code in TypeScript. I enjoy using Next.js, React, React Native and Ioni
 - Ionic
 - React Native
 - C++ (sort of)
-- - C#
+- C#
   
 ### Databases
 - SQL Server
